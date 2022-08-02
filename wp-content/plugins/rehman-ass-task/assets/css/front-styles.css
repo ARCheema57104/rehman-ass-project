@@ -1,0 +1,42 @@
+.reh-projects-listing{
+    width: 100%;
+    border: 1px solid #cfcfcf;
+    border-radius: 4px;
+    padding: 8px;
+}
+
+.reh-singleproject{
+    width: 100%;
+    padding: 8px 16px;
+    border: 1px solid #cfcfcf;
+    border-radius: 4px;
+    margin-bottom: 10px;
+}
+
+.reh-singleproject a{
+    text-decoration: none;
+    font-size: 20px;
+    text-transform: capitalize;
+    color: black;
+    font-weight: 600;
+}
+
+.reh-singleproject a:hover{
+    color: #a8a0a0;
+}
+
+.reh-singleproject .file-description{
+    text-align: justify;
+}
+
+.reh-project-pagination{
+    width: 100%;
+    text-align: center;
+    padding: 10px;
+}
+.reh-project-pagination a{
+    width: fit-content;
+    padding: 2px 6px;
+    border-radius: 4px;
+    background-color: #cfcfcf47;
+}
